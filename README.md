@@ -1,3 +1,8 @@
+Design for learning exercise
+Interactive Tutorial with package: learnr
+Link: https://kate8890.shinyapps.io/interactive-tutorial-demo/
+
+Coding for Rstudio
 ---
 title: "Tutorial"
 output: 
